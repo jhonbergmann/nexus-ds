@@ -15,6 +15,4 @@ export const colors = {
   nexus500: '#00875F',
   nexus700: '#015F43',
   nexus900: '#00291D',
-
-  test: '#fff',
 }
