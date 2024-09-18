@@ -1,5 +1,5 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {Avatar, AvatarProps} from '@nexus-ui/react'
+import {Avatar, AvatarProps} from '@nexus-ds-ui/react'
 
 export default {
   title: 'Data display/Avatar',

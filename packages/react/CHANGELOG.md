@@ -1,4 +1,10 @@
-# @nexus-ui/react
+# @nexus-ds-ui/react
+
+## 1.0.2
+
+### Patch Changes
+
+- new version
 
 ## 1.0.1
 

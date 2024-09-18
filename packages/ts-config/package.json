@@ -1,6 +1,6 @@
 {
-  "name": "@nexus-ui/ts-config",
-  "version": "1.0.0",
+  "name": "@nexus-ds-ui/ts-config",
+  "version": "1.0.1",
   "license": "MIT",
   "private": true
 }

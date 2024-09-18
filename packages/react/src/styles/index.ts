@@ -1,4 +1,4 @@
-import {colors, fonts, fontSizes, fontWeights, lineHeights, radii, space} from '@nexus-ui/tokens'
+import {colors, fonts, fontSizes, fontWeights, lineHeights, radii, space} from '@nexus-ds-ui/tokens'
 import {createStitches, defaultThemeMap} from '@stitches/react'
 
 export const {styled, css, globalCss, keyframes, getCssText, theme, createTheme, config} = createStitches({

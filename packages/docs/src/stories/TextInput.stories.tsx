@@ -1,5 +1,5 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {Box, Text, TextInput, TextInputProps} from '@nexus-ui/react'
+import {Box, Text, TextInput, TextInputProps} from '@nexus-ds-ui/react'
 
 export default {
   title: 'Form/Text Input',

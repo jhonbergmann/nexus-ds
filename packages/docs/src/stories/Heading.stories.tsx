@@ -1,5 +1,5 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {Heading, HeadingProps} from '@nexus-ui/react'
+import {Heading, HeadingProps} from '@nexus-ds-ui/react'
 
 export default {
   title: 'Typography/Heading',

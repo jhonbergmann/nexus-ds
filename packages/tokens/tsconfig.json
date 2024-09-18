@@ -1,4 +1,4 @@
 {
-  "extends": "@nexus-ui/ts-config/base.json",
+  "extends": "@nexus-ds-ui/ts-config/base.json",
   "include": ["src"]
 }

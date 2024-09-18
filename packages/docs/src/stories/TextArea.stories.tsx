@@ -1,5 +1,5 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {Box, Text, TextArea, TextAreaProps} from '@nexus-ui/react'
+import {Box, Text, TextArea, TextAreaProps} from '@nexus-ds-ui/react'
 
 export default {
   title: 'Form/Text Area',

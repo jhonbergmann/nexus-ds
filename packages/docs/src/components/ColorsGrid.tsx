@@ -1,4 +1,4 @@
-import {colors} from '@nexus-ui/tokens'
+import {colors} from '@nexus-ds-ui/tokens'
 import {getContrast} from 'polished'
 
 export function ColorsGrid() {

@@ -1,4 +1,4 @@
 {
-  "extends": "@nexus-ui/ts-config/react.json",
+  "extends": "@nexus-ds-ui/ts-config/react.json",
   "include": ["src"]
 }
