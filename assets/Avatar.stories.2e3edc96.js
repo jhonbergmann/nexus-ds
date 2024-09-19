@@ -1,0 +1,2 @@
+import{A as t}from"./index.6b995416.js";import"./index.a6ab08f2.js";import"./iframe.c1828588.js";import"./jsx-runtime.5195227d.js";import"./index.0d9548a1.js";const i={title:"Data display/Avatar",component:t,args:{src:"https://github.com/jhonbergmann.png",alt:"Jhonatan Bergmann"},argTypes:{src:{control:{type:"text"}}}},m={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{m as Primary,p as WithFallback,c as __namedExportsOrder,i as default};
+//# sourceMappingURL=Avatar.stories.2e3edc96.js.map
