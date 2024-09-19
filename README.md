@@ -18,6 +18,7 @@ Design System is a collection of reusable components, guidelines, and standards 
 ## 📦 Tech Stack
 
 - Vite
+- React
 - Typescript
 - Storybook
 
