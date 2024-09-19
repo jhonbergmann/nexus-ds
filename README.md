@@ -7,7 +7,7 @@ Design System is a collection of reusable components, guidelines, and standards 
 
 ## 🔗 Storybook
 
-### [Access, click here](https://rocketseat-education.github.io/05-design-system/)
+### [Access, click here](https://jhonbergmann.github.io/nexus-ds/)
 
 ## 🔗 NPM Packages 
 
